@@ -51,6 +51,13 @@ This project uses the YOLOv3 weights file: (put it in weights/)
 python detect.py
 ```
 
+### 6. Test on Images
+
+![dog](https://github.com/user-attachments/assets/e1ae747d-6a20-49a1-827f-490f6b0c2f6d)
+
+![det_dog](https://github.com/user-attachments/assets/a659d41a-53d9-4f94-812b-f30676a184e5)
+
+
 ## References
 
 1. **YOLOv1 Paper:** [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)  
